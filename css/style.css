@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.card{
+    width: 90%;
+    margin-right: 360px;
+}
+.Lbutton{
+    margin-left: 100px;
+
+}
+.navbar{
+    background-color: #454545;
+}
+.textcol{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+a:hover {
+    background-color: #0c317a;
+    
+  }
+.disabled {
+    pointer-events: none;
+    
+  }
+  #c1{
+    background-color: #86A3B8;
+  }
+  .borderstyle{
+    margin: 0;
+    
+  }
+  .slick-prev:before, .slick-next:before {
+    color: #09529b !important;
+  }
+  .Stemcard {
+    flex-direction: row;
+  }
+  .Stemcard img {
+    width: 30%;
+  }
+
+  .mar-0{
+    margin-right:0;
+    margin-left:0;
+}
+
+.testimonial-card .card-up {
+  height: 120px;
+  overflow: hidden;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+.testimonial-card .avatar {
+  width: 110px;
+  margin-top: -60px;
+  overflow: hidden;
+  border: 3px solid #fff;
+  border-radius: 50%;
+}
